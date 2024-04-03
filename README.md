@@ -1,11 +1,18 @@
+```css
+
 # 💫 About Me:
-      Hello,       
+      Hello,    
       I'm Rashmi kalsariya,🔭
-      I'm currently Persuing Full stack Development.👯 
+
+      I'm currently Persuing Full stack Development.👯
+ 
       I am a self-motivated individual with a passion for continuous learning.      
       I thrive in challenging environments and enjoy working on projects that     
-      requires creative thinking and problem-solving skills.🌱 
+      requires creative thinking and problem-solving skills.🌱
+
       I’m currently learning Front-End Web Developing.
+
+```
 
 
 # 🌐 Socials:
