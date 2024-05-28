@@ -1,26 +1,62 @@
-```css
+<img align="center" src='https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif' />
 
-# 💫 About Me:
-      Hello,    
-      I'm Rashmi kalsariya,🔭
+<h1 align="center">👋Hey, It's Rashmi Kalsariya</h1>
 
-      I'm currently Persuing Full stack Development.👯
- 
-      I am a self-motivated individual with a passion for continuous learning.      
-      I thrive in challenging environments and enjoy working on projects that     
-      requires creative thinking and problem-solving skills.🌱
 
-      I’m currently learning Front-End Web Developing.
+<p align="center">
+  <strong> I am a self-motivated individual with a passion for continuous learning.</strong>
+  <em>I thrive in challenging environments and enjoy working on projects that</em>
+  <em>requires creative thinking and problem-solving skills.🌱</em>.
+</p>
+
+##
+---
+[![](https://visitcount.itsvg.in/api?id=Rashmi-Kalsariya&icon=2&color=12)](https://visitcount.itsvg.in)
+
+<p><img align="right" width="350" height="300"  src='https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966' /></p>
+
+
+```js
+
+let FullStackDeveloper = {};
+
+let Bio = {
+  name: 'Rashmi Kalsariya',
+  title: 'Web Developer',
+  location: 'Gujarat, India',
+  availability: 'Open to Work!!'
+};
+
+let Skills = {
+  languages: ['JavaScript','C++','C(programming Language)','MediaQuery','JQuery'],
+  frameworks: ['Bootstrap','Tailwind CSS'],
+  tools: ['Git']
+};
 
 ```
 
+```css
 
-# 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/RASHMI KALSARIYA) <br><br>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qgHYbrdR) <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RASHMI KALSARIYA) <br><br>
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/I'M RASHMI) <br><br>
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/I'M RASHMI) <br><br><br>
+💫 About Me:
+
+      Hello,
+
+     - I'm Currently Working on Logical Projects Of Front-End Developing🔭
+
+     - I'm currently Learning "JavaScript".👯
+ 
+     - 'A perpetual learner passionate about frontend innovation,
+        constantly exploring new technologies to enhance problem-solving and intellectual growth.' 🌱
+```
+
+### Blogs posts
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/RASHMI-KALSARIYA)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qgHYbrdR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RASHMI-KALSARIYA-5ab096255)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/I'MRASHMI)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/I'MRASHMI)<br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
@@ -72,8 +108,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rashmi-Kalsariya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rashmi-Kalsariya&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
