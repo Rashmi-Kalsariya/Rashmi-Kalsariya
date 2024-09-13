@@ -28,7 +28,7 @@ let Bio = {
 };
 
 let Skills = {
-  languages: ['JavaScript','C++','C(programming Language)','MediaQuery','JQuery'],
+  languages: ['JavaScript','C++','C(programming Language)','MediaQuery','JQuery','Node','React'],
   frameworks: ['Bootstrap','Tailwind CSS'],
   tools: ['Git']
 };
@@ -43,7 +43,7 @@ let Skills = {
 
      - I'm Currently Working on Logical Projects Of Front-End Developing🔭
 
-     - I'm currently Learning "JavaScript".👯
+     - I'm currently Learning "NODE.JS".👯
  
      - 'A perpetual learner passionate about frontend innovation,
         constantly exploring new technologies to enhance problem-solving and intellectual growth.' 🌱
